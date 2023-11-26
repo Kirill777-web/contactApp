@@ -45,8 +45,7 @@ To use Contact App:
 ## 🔗 Links
 
 - This is the link of my [GitHub repository](https://github.com/Kirill777-web/contactApp)
-- Link to the Heroku [Heroku]()
-- The following video of the app: technical acceptance/start server. GET routes all Users and all Thoughts, single User, single Thought ![contactApp](https://drive.google.com/file/d/1SLS5l3uUOhrukQ_2NvGL4oSwtEaxiO_s/view)
+- The following video of the app: technical acceptance/start server. GET routes all Users and all Thoughts, single User, single Thought [Screencastify](https://drive.google.com/file/d/1SLS5l3uUOhrukQ_2NvGL4oSwtEaxiO_s/view)
 - The following video of the app: POST, PUT, and DELETE routes for users and thoughts [Screencastify](https://drive.google.com/file/d/1SWpy-Ex8Xe1rbepjrezL4lQFLcvKH7x3/view)
 - The following video of the app: POST and DELETE routes for a user’s friend list [Screencastify](https://drive.google.com/file/d/1LWrhjdHb22VZ9YHfgLWV-qiSmoINCtuW/view)
 - The following video of the app: POST and DELETE routes for reactions [Screencastify](https://drive.google.com/file/d/1sxgoos23GmWuXB93GysZsHEWqNkO_fqN/view)
